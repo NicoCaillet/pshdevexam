@@ -1,0 +1,71 @@
+.container{
+    height: 1000px;
+    
+    width: 600px;
+
+}
+
+
+.uno {
+display: flex;
+justify-content: center;
+
+}
+
+.dos{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.boton{
+margin-left: 50px;
+width: 250px;
+display: block;
+height: 60px;
+background-color: white;
+color: #000000;
+border: none;
+border-radius: 5px;
+outline-color: none;
+
+
+}
+
+.junto{
+    display: inline;
+}
+
+
+
+.fotos{ 
+    width: 50px;
+    height: 50px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+
+.unicos{
+    display: flex;
+}
+
+.leader{
+    
+    margin-left: -130px;
+    color: white;
+    font-size: 50px;
+}
+
+.parrafo{
+    margin-right: -1800px;
+    color: white;
+}
+
+.csv{
+height: 40px;
+background-color: black;
+color: white;
+border: solid 1px white;
+border-radius: 5px;
+outline-color: none;
+}
